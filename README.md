@@ -1,7 +1,7 @@
 ## 👋 Olá Mundo! Eu sou o Gustavo Simão!
 - 🔭 I’m currently working with BI
 - 🌱 I’m currently learning Python and Java
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: he/him
 ___
 
 <div align="center">
